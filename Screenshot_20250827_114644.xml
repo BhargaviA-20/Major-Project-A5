@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Before labelling</folder>
+	<filename>Screenshot_20250827_114644.jpg</filename>
+	<path>C:\Users\BHARGAVI A\OneDrive\Desktop\Before labelling\Screenshot_20250827_114644.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>716</width>
+		<height>476</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sitting on	bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>89</ymin>
+			<xmax>432</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

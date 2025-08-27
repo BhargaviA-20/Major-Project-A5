@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Before labelling</folder>
+	<filename>IMG-20250827-WA0003.jpg</filename>
+	<path>C:\Users\BHARGAVI A\OneDrive\Desktop\Before labelling\IMG-20250827-WA0003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sleeping</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>85</ymin>
+			<xmax>452</xmax>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+</annotation>
